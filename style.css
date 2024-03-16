@@ -1,0 +1,132 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    background-image: url(pexels-jonathan-meyer-668300.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    /* background-color: #d5a239; */
+    padding: 15px;
+    text-align: center;
+    color:sienna;
+    margin-bottom: 150px;
+}
+
+h1 {
+    font-size: 70px;
+    margin-bottom: 20px;
+    color: #ffffff; 
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;
+    
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 10px ;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 35px;
+    padding: 13px 23px;
+    border-radius: 15px;
+    background-color: #45a049;
+    transition: background-color 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.btn :hover{
+    width: 100px;
+}
+
+
+
+/* nav ul li a span {
+    position: absolute;
+    display: block;
+    background: #fff;
+    color: green;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.4s ease;
+} */
+
+
+
+.container {
+    color: #fff;
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.footerBottom {
+    padding: 10px;
+    font-size: smaller;
+    margin-top: 218px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    background-color: #3c3939;
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;
+}
+
+.footerBottom p {
+    margin: 5px;
+}
+
+/* CSS for hover effect */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #f0f0f0;
+    color: #333;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effect */
+  }
+  
+  .btn:hover {
+    background-color: #333; /* Change background color on hover */
+    color: #fff; /* Change text color on hover */
+  }
+  
