@@ -20,7 +20,7 @@
     </nav>
 
     <footer class="footerBottom">
-        <p>&copy; Copyright 2024</p>
+        <p>&copy; Copyright 2026</p>
         <p>Developed By -Rushi Karlekar</p>
         <p>Contact: 7350515037</p>
     </footer>
