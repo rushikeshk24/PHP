@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Hospital Management System</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
-        <h1>Welcome to Hospital Management System....</h1>
+        <h1>Welcome to Hospital Management System.....</h1>
     </header>
     <nav>
         <ul>
@@ -20,9 +20,9 @@
     </nav>
 
     <footer class="footerBottom">
-        <p>&copy; Copyright 2026</p>
+        <p>&copy; Copyright 2025</p>
         <p>Developed By -Rushi Karlekar</p>
-        <p>Contact: 7350515037</p>
+        <p>Contact:91+ 7350515037</p>
     </footer>
 </body>
 </html>
